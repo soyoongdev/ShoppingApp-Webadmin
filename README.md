@@ -14,3 +14,5 @@ With React Native:
 2) Open android virtual machine and run: "npx react-native run-android" or "react-native run-android"
 
 Done! Thank you! ^^
+
+![Alt text](https://firebasestorage.googleapis.com/v0/b/imageuploads-466a2.appspot.com/o/ReactNative-ShoppingApp_WebServer%2Flogin_screen.PNG?alt=media&token=1dbc0677-49d9-463f-935c-3308c8e995b1 "Login Screen")

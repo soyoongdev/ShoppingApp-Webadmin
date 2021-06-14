@@ -1,0 +1,21 @@
+var jwt = require('jsonwebtoken');
+
+exports.authenticate = function(req, res, next){
+    let {token} = req.session
+    if (token)
+    {
+        jwt.verify(token, process.env.JWT_KEY, function(err, decoded){
+            if (err) {
+                res.redirect('/login')
+            } else {
+                console.log('>>>', decoded);
+                next()
+            }
+        });
+    }
+    else
+    {
+        res.redirect('/login')
+    }
+
+}

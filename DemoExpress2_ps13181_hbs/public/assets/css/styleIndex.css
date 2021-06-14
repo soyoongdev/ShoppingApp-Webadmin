@@ -1,0 +1,75 @@
+.table-responsive {
+    padding-right: 1px;
+}
+.table-responsive.table--no-card {
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    -webkit-box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.1);
+    -moz-box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.1);
+    box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.1);
+}
+.title-5{
+    font-size: 35px;
+    text-transform: uppercase;
+    color: #000;
+}
+.res-crud-lg{
+    max-width: 200px;
+    width: auto;
+}
+.styleImageProduct {
+  display: block;
+  max-width: 230px;
+  max-height: 130px;
+  width: auto;
+  height: auto;
+}
+.btn-add-product{
+    margin-right: 50px;
+    
+}
+.btn-add{
+    float: right;
+
+}
+.title_table{
+    font-size: 32px;
+}
+
+
+/* Dành cho điện thoại */
+@media screen and (max-width: 320px) {
+    .res-title-col-table, .res-crud-lg{
+        display: none;
+    }
+    .styleImageProduct{
+        display: block;
+        max-width: 320px;
+        max-height: 220px;
+        width: auto;
+        height: auto;
+    }
+    
+}
+@media screen and (min-width: 321px) and (max-width: 375px) {
+    
+    .res-title-col-table, .styleImageProduct{
+        display: none;
+    }
+    
+}
+
+ 
+/* Dành cho máy tính bảng chiều dọc */
+@media all and (max-width: 600px) {}
+ 
+/* Dành cho máy tính bảng chiều ngang */
+@media all and (max-width: 1024px) {
+    .res-crud-sm{
+        display: none;
+    }
+}
+ 
+/* Dành cho màn hình desktop */
+@media all and (max-width: 1280px) {}

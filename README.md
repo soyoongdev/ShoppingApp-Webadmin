@@ -24,6 +24,8 @@ Done! Thank you! ^^
 <!-- Details -->
 ![Alt text](https://firebasestorage.googleapis.com/v0/b/imageuploads-466a2.appspot.com/o/ReactNative-ShoppingApp_WebServer%2Fdetails_screen.PNG?alt=media&token=865332bc-aa4c-470c-b8f6-3ebd499e592a "Details Screen")
 <!-- Tabbar -->
-![Alt text](https://firebasestorage.googleapis.com/v0/b/imageuploads-466a2.appspot.com/o/ReactNative-ShoppingApp_WebServer%2Ftabbar_screen.PNG?alt=media&token=bd010e7b-cff2-46c1-a570-88aa054abdfa "Register Screen")
-<!-- Onbroading -->
-![Alt text](https://firebasestorage.googleapis.com/v0/b/imageuploads-466a2.appspot.com/o/ReactNative-ShoppingApp_WebServer%2Flogin_video.gif?alt=media&token=7cd6282b-2baf-47d2-a549-794776778c61 "Register Screen")
+![Alt text](https://firebasestorage.googleapis.com/v0/b/imageuploads-466a2.appspot.com/o/ReactNative-ShoppingApp_WebServer%2Ftabbar_screen.PNG?alt=media&token=bd010e7b-cff2-46c1-a570-88aa054abdfa "Tabbar Screen")
+
+<div align="center">
+    <img src="https://firebasestorage.googleapis.com/v0/b/imageuploads-466a2.appspot.com/o/ReactNative-ShoppingApp_WebServer%2Flogin_video.gif?alt=media&token=7cd6282b-2baf-47d2-a549-794776778c61" width="400px"</img> 
+</div>

@@ -13,10 +13,10 @@ With Web Server:
 With React Native:
 1) Open with VSCode and run: "yarn install" or "npm install"
 2) And open firebase and create project with:
-    +) Name package app: com.nikeshopapp_rnfirebase
-    +) Get key sha1 with command line: cd android && ./gradlew signingReport
-    +) Add file google-services.json to path: android/app/{paste file google-services.json here}
-    +) Access Email, Google and FaceBook in Authentication..
+    2.1 Name package app: com.nikeshopapp_rnfirebase
+    2.2 Get key sha1 with command line: cd android && ./gradlew signingReport
+    2.3 Add file google-services.json to path: android/app/{paste file google-services.json here}
+    3.4 Access Email, Google and FaceBook in Authentication..
 All done!
 
 2) Open android virtual machine and run: "npx react-native run-android" or "yarn run android"

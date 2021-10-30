@@ -7,13 +7,21 @@ With Web Server:
 1) Open file DemoExpress2_ps13181_hbs with VSCode
 2) Open terminal in VSCode and run command line: "yarn install" or "npm install"
 3) Start server with command line: "yarn start" or "npm run start"
-4) Open chrome with port: "localhost:3003"
+4) Open web size with url: "localhost:3003"
+5) Login and Register to open web admin
 
 With React Native:
-1) Open with VSCode and run command line in terminal: "yarn install" or "npm install"
-2) Open android virtual machine and run: "npx react-native run-android" or "react-native run-android"
+1) Open with VSCode and run: "yarn install" or "npm install"
+2) And open firebase and create project with:
+    +) Name package app: com.nikeshopapp_rnfirebase
+    +) Get key sha1 with command line: cd android && ./gradlew signingReport
+    +) Add file google-services.json to path: android/app/{paste file google-services.json here}
+    +) Access Email, Google and FaceBook in Authentication..
+All done!
 
-Done! Thank you! ^^
+2) Open android virtual machine and run: "npx react-native run-android" or "yarn run android"
+
+Thank you! ^^
 
 <div align="center">
     <h3>Onbroading<h3>

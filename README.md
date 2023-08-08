@@ -1,4 +1,4 @@
-![onbroading_screen](https://github.com/soyoongdev/ShoppingApp-Webadmin/assets/63950809/ca1eaa5e-44dd-4859-89cf-6d739750930f)# ReactNative-ShoppingApp_WebServer
+ReactNative-ShoppingApp_WebServer
 
 Application ShoppingApp using language React Native, Javascrip, NodeJS, Express and MongoDB
 
